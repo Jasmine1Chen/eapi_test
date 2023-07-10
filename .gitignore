@@ -1,0 +1,14 @@
+dbg/
+rel/
+*.pdf
+*.txt
+
+# Object files
+*.o
+*.ko
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+modules.order
+Module.symvers
