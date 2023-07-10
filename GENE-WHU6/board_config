@@ -1,5 +1,5 @@
 PinCount:8
-DioGroupNum:80
+DioGroupNum:70
 gpiodrv:gpio_fxxx
 hwmdrv:f71882fg
 cpu_temp:temp2_input
@@ -17,7 +17,7 @@ cpu_fan:fan1_input
 wdtdrv:f71808e_wdt
 maxtime:max_timeout
 mintime:min_timeout
-backlightdrv:ptn3460
+backlightdrv:
 backlightpwr:bl_power
 backlightbns:brightness
 i2cdrv:i2c_i801
